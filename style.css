@@ -1,0 +1,51 @@
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    margin: 0 0 0 40px;
+}
+
+body {
+    background-color: lightgreen;
+    line-height: 1.2;
+}
+
+.szoveg {
+    width: 800px;
+    padding: 30px;
+    font-size: 20px; 
+    margin: 0 0 0 40px;
+}
+
+
+.elso {
+    padding:30px;
+    width: 400px;
+    float: right;
+    margin-right: 250px;
+}
+
+.masodik {
+    padding:30px;
+    width: 700px;
+    float: right;
+    margin-right: 250px;
+}
+
+.elso_vers {
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 800px;
+    font-size: 25px;
+}
+
+.cim {
+    margin-left: 850px;
+}
+
+.cim_egy {
+    margin-left: 250px;
+    font-size: 40px;
+}
+
